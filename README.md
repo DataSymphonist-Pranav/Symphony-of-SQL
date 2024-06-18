@@ -18,7 +18,8 @@ The Symphony of SQL is a collection of diverse SQL case studies, including the H
 | **jobs**        | job_id, job_title, min_salary, max_salary                                                                                     |
 | **employees**   | employee_id, first_name, last_name, email, phone_number, hire_date, job_id, salary, commission_pct, manager_id, department_id |
 | **job_history** | employee_id, start_date, end_date, job_id, department_id                                                                      |
-|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+
+
 ### Sample SQL Queries
 
 Below are some sample SQL queries used to interact with the HR Database:
@@ -40,9 +41,9 @@ Below are some sample SQL queries used to interact with the HR Database:
     WHERE department_id = 100;
 
 Why This Project Stands Out
-   Practical Experience: By working with this downloaded dataset, I've gained practical experience in handling complex database schemas and executing advanced SQL queries.
-   Real-World Applicability: The project simulates a real-world HR database, showcasing my ability to work with intricate data relationships and queries.
-   SQL Proficiency: Demonstrates my proficiency in SQL, from writing efficient queries to manipulating and analyzing data.
+  * Practical Experience: By working with this downloaded dataset, I've gained practical experience in handling complex database schemas and executing advanced SQL queries.
+  * Real-World Applicability: The project simulates a real-world HR database, showcasing my ability to work with intricate data relationships and queries.
+  * SQL Proficiency: Demonstrates my proficiency in SQL, from writing efficient queries to manipulating and analyzing data.
 
 
 Let's Connect
